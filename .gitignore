@@ -92,6 +92,7 @@ sp/src/vgui2/*.pdb
 # Build support files
 sp/src/devtools/gcc9+support.o
 
-# Hammer++
+# Game Bin & Hammer++
 sp/game/the_exodus/bin/hammerplusplus/*
-sp/game/the_exodus/bin/hammerplusplus.exe
+sp/game/the_exodus/bin/*.exe
+sp/game/the_exodus/bin/*.dll
